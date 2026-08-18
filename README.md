@@ -1,6 +1,6 @@
 # krateo-hyperdx-provider
 
-The HyperDX OpenAPI spec consumed by [`krateo-hyperdx-provider-chart`](https://github.com/braghettos/krateo-hyperdx-provider-chart).
+The HyperDX OpenAPI spec consumed by [`krateo-hyperdx-provider-chart`](https://github.com/krateo-blueprints/krateo-hyperdx-provider-chart).
 
 > Split out of the former `observability-stack` monorepo to follow the org standard (`krateo-<name>` source repo ↔ `krateo-<name>-chart`). History preserved.
 
